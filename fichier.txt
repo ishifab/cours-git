@@ -1,1 +1,2 @@
 je suis le fichier.txt
+je suis la nouvelle ligne
